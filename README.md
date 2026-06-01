@@ -1,5 +1,11 @@
 # Gestor de Tienda en Tiempo Real
 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56B6?style=for-the-badge&logo=livewire&logoColor=white)
+![Reverb](https://img.shields.io/badge/Reverb-000000?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 Proyecto de gestión de productos desarrollado con **Laravel**, **Livewire** y **Reverb** para actualizaciones instantáneas en el panel de ventas y la tienda.
 
 ## Características
@@ -22,7 +28,7 @@ Proyecto de gestión de productos desarrollado con **Laravel**, **Livewire** y *
 
 Demostración donde se aprecia la reactividad del sistema, mostrando cómo las actualizaciones de inventario se reflejan instantáneamente en la interfaz gracias a Laravel Reverb.
 
-<video src="https://github.com/user-attachments/assets/2fbc8b80-42e4-4ee3-b610-f8d5efde29ea" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/1be459cf-d691-4951-8609-1b6f71aadac3" controls width="100%"></video>
 
 
 
