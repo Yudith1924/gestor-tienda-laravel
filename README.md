@@ -33,8 +33,7 @@ Aquí puedes observar el diseño y la estructura de la aplicación, desde la pá
 
 Demostración donde se aprecia la reactividad del sistema, mostrando cómo las actualizaciones de inventario se reflejan instantáneamente en la interfaz gracias a Laravel Reverb.
 
-(https://github.com/user-attachments/assets/2fbc8b80-42e4-4ee3-b610-f8d5efde29ea)
-
+<video src="https://github.com/user-attachments/assets/2fbc8b80-42e4-4ee3-b610-f8d5efde29ea" controls width="100%"></video>
 ---
 
 
@@ -43,7 +42,7 @@ Demostración donde se aprecia la reactividad del sistema, mostrando cómo las a
 Sigue estos pasos para ejecutar el proyecto en tu máquina local:
 
 1. **Clonar el repositorio:**
-   ```bash
+```bash
    git clone [https://github.com/Yudith1924/gestor-tienda-laravel.git](https://github.com/Yudith1924/gestor-tienda-laravel.git)
    cd gestor-tienda-laravel
 
