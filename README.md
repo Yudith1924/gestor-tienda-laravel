@@ -36,10 +36,19 @@ Demostración donde se aprecia la reactividad del sistema, mostrando cómo las a
 
 Aquí puedes observar el diseño y la estructura de la aplicación, desde la página de inicio hasta el panel de control administrativo donde se gestionan los productos en tiempo real.
 
-| Inicio | Dashboard | Panel de Administración | Vista de Tienda |
-| :--- | :--- | :--- | :--- |
-| ![Inicio](https://github.com/user-attachments/assets/52406e70-beb8-4b86-bbdc-21a632390015) | ![Dashboard](https://github.com/user-attachments/assets/0dac6515-e979-469a-a840-870f45c3f31f) | ![Panel de Administrador](https://github.com/user-attachments/assets/0960ac03-0cba-4e86-98b0-743180c2e723) | ![Tienda](https://github.com/user-attachments/assets/76b3d999-99fe-4c98-bc09-f6a5070cba07) |
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/52406e70-beb8-4b86-bbdc-21a632390015" width="23%" />
+  <img src="https://github.com/user-attachments/assets/0dac6515-e979-469a-a840-870f45c3f31f" width="23%" />
+  <img src="https://github.com/user-attachments/assets/0960ac03-0cba-4e86-98b0-743180c2e723" width="23%" />
+  <img src="https://github.com/user-attachments/assets/76b3d999-99fe-4c98-bc09-f6a5070cba07" width="23%" />
+</div>
 
+<div align="center">
+  <b>Inicio</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <b>Dashboard</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <b>Administración</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <b>Tienda</b>
+</div>
 ---
 
 ## Instalación
