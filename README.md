@@ -23,8 +23,17 @@ Proyecto de gestión de productos desarrollado con **Laravel**, **Livewire** y *
 
 Aquí puedes observar el diseño y la estructura de la aplicación, desde la página de inicio hasta el panel de control administrativo donde se gestionan los productos en tiempo real.
 
-| ![Inicio](https://github.com/user-attachments/assets/52406e70-beb8-4b86-bbdc-21a632390015) | ![Dashboard](https://github.com/user-attachments/assets/0dac6515-e979-469a-a840-870f45c3f31f) | ![Panel](https://github.com/user-attachments/assets/0960ac03-0cba-4e86-98b0-743180c2e723) | ![Tienda](https://github.com/user-attachments/assets/76b3d999-99fe-4c98-bc09-f6a5070cba07) |
+| Inicio | Dashboard | Panel de Administración | Vista de Tienda |
+| :--- | :--- | :--- | :--- |
+| ![Inicio](https://github.com/user-attachments/assets/52406e70-beb8-4b86-bbdc-21a632390015) | ![Dashboard](https://github.com/user-attachments/assets/0dac6515-e979-469a-a840-870f45c3f31f) | ![Panel de Administrador](https://github.com/user-attachments/assets/0960ac03-0cba-4e86-98b0-743180c2e723) | ![Tienda](https://github.com/user-attachments/assets/76b3d999-99fe-4c98-bc09-f6a5070cba07) |
 
+---
+
+## Flujo de la App en Video
+
+Demostración donde se aprecia la reactividad del sistema, mostrando cómo las actualizaciones de inventario se reflejan instantáneamente en la interfaz gracias a Laravel Reverb.
+
+*(https://github.com/user-attachments/assets/0893051e-c7e4-437e-9adf-44432fd31505)*
 ---
 
 ## Flujo de la App en Video
