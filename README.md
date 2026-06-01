@@ -49,7 +49,7 @@ Aquí puedes observar el diseño y la estructura de la aplicación, desde la pá
   <b>Administración</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <b>Tienda</b>
 </div>
----
+
 
 ## Instalación
 
