@@ -33,14 +33,9 @@ Aquí puedes observar el diseño y la estructura de la aplicación, desde la pá
 
 Demostración donde se aprecia la reactividad del sistema, mostrando cómo las actualizaciones de inventario se reflejan instantáneamente en la interfaz gracias a Laravel Reverb.
 
-*(https://github.com/user-attachments/assets/0893051e-c7e4-437e-9adf-44432fd31505)*
+(https://github.com/user-attachments/assets/2fbc8b80-42e4-4ee3-b610-f8d5efde29ea)
+
 ---
-
-## Flujo de la App en Video
-
-Demostración donde se aprecia la reactividad del sistema, mostrando cómo las actualizaciones de inventario se reflejan instantáneamente en la interfaz gracias a Laravel Reverb.
-
-(https://github.com/user-attachments/assets/0893051e-c7e4-437e-9adf-44432fd31505)
 
 
 ## Instalación
