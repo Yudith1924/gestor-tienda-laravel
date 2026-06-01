@@ -88,7 +88,7 @@ php artisan serve
 
 2. **Servidor de WebSockets (Reverb):**
 ```bash
-php artisan reverb:start --debug
+php artisan reverb:start 
 
 ```
 
