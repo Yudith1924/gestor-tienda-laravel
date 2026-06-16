@@ -81,6 +81,7 @@ php artisan key:generate
 
 
 *(Recuerda configurar tu base de datos en el archivo .env)*
+
 4. **Ejecutar migraciones:**
 ```bash
 php artisan migrate
